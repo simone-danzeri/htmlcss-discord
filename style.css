@@ -142,8 +142,9 @@ body{
     list-style: none;
     justify-content: center;
 }
+
 .main-nav li {
-    padding: 0 4px;
+    padding: 0 20px;
 }
 .main-nav li a {
     text-decoration: none;
