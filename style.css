@@ -121,9 +121,13 @@
 /*-------------------
     GENERAL
 -------------------*/
+body{
+    font-family: 'Cabin', sans-serif;
+}
+/* 
 .bg-gray {
     background-color: #d3d3d3;
-}
+} */
 
 /*-------------------
     HEADER
