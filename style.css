@@ -208,6 +208,23 @@
 /*-------------------
     MAIN
 -------------------*/
+main section .row img{
+    max-width: 70%;
+}
+
+main section .row h2{
+    text-align: left;
+    /* font-size: 40px; */
+    margin-top: 30px;
+    /* margin-left: -100px; */
+}
+
+main section .row .col-30 p{
+    text-align: left;
+    margin-top: 20px;
+    /* margin-left: -100px; */
+}
+
 main section:nth-child(2n) {
     background-color: #d3d3d3;
 }
