@@ -168,7 +168,7 @@ body{
     padding: 50px 0;
     display: flex;
     justify-content: center;
-    background-image: url(/img/jumbo.png);
+    background-image: url(./img/jumbo.png);
     background-size: 100%;
     background-repeat: no-repeat;
     min-height: 600px;
